@@ -5,3 +5,5 @@ def sqr(x):
     
 def cube(x):
     return x*x*x
+    
+a= 2
